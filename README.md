@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisaldangol&label=Profile%20views&color=0e75b6&style=flat" alt="bisaldangol" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security, Backend with Express**
 
 - 👨‍💻 All of my projects are available at [github/BisalDangol](github/BisalDangol)
 
@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/bishaldangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishaldangol" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bishaldangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishaldangol" height="30" width="40" /></a>
 </p>
 
