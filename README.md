@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bisaldangol&show_icons=true&locale=en" alt="bisaldangol" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisaldangol&" alt="bisaldangol" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisaldangol&theme=tokyonight" alt="bisaldangol" /></p>
