@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishal Dangol</h1>
 <h3 align="center">A passionate UI/UX designer, Backend Developer and WordPress Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isarojdahal&label=Profile%20views&color=0e75b6&style=flat" alt="bisaldangol" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisaldangol&label=Profile%20views&color=0e75b6&style=flat" alt="bisaldangol" /> </p>
 
 - 🌱 I’m currently learning **Cyber Security, Backend with Express**
 
