@@ -30,5 +30,10 @@
 <br><p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisaldangol&show_icons=true&locale=en&layout=compact" alt="bisaldangol" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bisaldangol&show_icons=true&locale=en" alt="bisaldangol" /></p>
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/BisalDangol/bisaldangol/blob/output/ocean.gif)
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisaldangol&theme=tokyonight" alt="bisaldangol" /></p>
